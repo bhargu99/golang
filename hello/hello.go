@@ -1,5 +1,7 @@
 package hello
 
+import "fmt"
+
 func Hello() {
-	fmt.Println("Hello All!!)
+	fmt.Println("Hello All!!")
 }
